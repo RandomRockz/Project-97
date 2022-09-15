@@ -1,0 +1,16 @@
+Problem #1 - A boy who has problem in class to understand the phoenics sounds
+Solution #1 - Create an application where the user inputs a word a it plits into phoenics
+
+Problem #2 - A girl in school with poor vision 
+Solution #2 - The teacher can broadcast the information onto a device
+
+Problem #3 - A teenager who has poor memory and orginazation needs help submitting work on time.
+Solution #3 - App that notifies someone when things are due.
+
+
+
+	An app that tutors you on your homework
+
+
+
+
